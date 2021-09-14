@@ -1,0 +1,1 @@
+Learned basic Git commands and how to pull and push
