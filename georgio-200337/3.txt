@@ -1,0 +1,4 @@
+1-cloned the folder from github
+2-created my own branch 
+3-created my .txt file 
+4-commit plus rebase
