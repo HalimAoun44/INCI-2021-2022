@@ -1,0 +1,8 @@
+GitHub is a free software to manage repositories and projects
+to work in a team with github:
+we first clone the ripository on our machine
+we create a new branches
+we make the chances in a branch
+we add the files the staging area and commit the changes with a meaning message (on every change)
+when we are done we rebase
+
